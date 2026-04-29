@@ -17,7 +17,7 @@ public class  ConditionalExercises {
         // "teen" if age is less than 20, and "adult" otherwise
         // (use if, else if, and else)
         if (age < 13) {
-            return "child";
+            return "children";
         } else if (age < 20) {
             return "teen";
         } else {
